@@ -2,16 +2,10 @@
   "headers": [
     {
       "source": "/",
-      "has": [
+      "headers": [
         {
-          "type": "host",
-          "value": "southxavyy-frshpl.vercel.app/"
-        }
-      ],
-      "headers" : [
-        {
-          "key" : "X-Robots-Tag",
-          "value" : "index"
+          "key": "X-Robots-Tag",
+          "value": "index, follow"
         }
       ]
     }
